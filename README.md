@@ -11,3 +11,18 @@ runtime_span.innerHTML="本站已在github.com发布"+A+"天"+B+"小时"+C+"分"
 # 网站尚未建立完毕
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 ### 友情链接 <a href="http://apps.xiaiisme.club/">软件站</a><a href="http://file.xiaiisme.club/">文件站</a><a href="http://chat.xiaiisme.club/">闲聊站</a><a href="http://beta.xiaiisme.club/">测试站</a><a href="https://home.edgeless.top/">Edgeless</a>
+<div class="section light-bg">
+	<div class="container">
+		<div class="section-title">
+			<small></small>
+			<h3><font face="earth"><h1>edgElEss</h1></font> 1</h3>
+		</div>
+
+		<div class="img-gallery owl-carousel owl-theme owl-loaded owl-drag">
+			
+			
+			
+			
+		<div class="owl-stage-outer"><div class="owl-stage" style="transition: all 0.25s ease 0s; width: 3700px; transform: translate3d(-1850px, 0px, 0px);"><div class="owl-item cloned" style="width: 370px;"><img src="1.jpg" alt=""></div><div class="owl-item cloned" style="width: 370px;"><img src="1.jpg" alt=""></div><div class="owl-item cloned" style="width: 370px;"><img src="1.png" alt=""></div><div class="owl-item" style="width: 370px;"><img src="1.jpg" alt=""></div><div class="owl-item" style="width: 370px;"><img src="1.jpg" alt=""></div><div class="owl-item active" style="width: 370px;"><img src="1.jpg" alt=""></div><div class="owl-item active center" style="width: 370px;"><img src="1.png" alt=""></div><div class="owl-item cloned active" style="width: 370px;"><img src="1.jpg" alt=""></div><div class="owl-item cloned" style="width: 370px;"><img src="1.jpg" alt=""></div><div class="owl-item cloned" style="width: 370px;"><img src="1.jpg" alt=""></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><span class="ti-arrow-left"></span></div><div class="owl-next"><span class="ti-arrow-right"></span></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div></div></div>
+	</div>
+</div>
